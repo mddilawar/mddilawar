@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/mddilawar/PORTFOLIO/main/staff_1_1fa0420a.png" alt="Muhammad Dilawar" width="140" />
 
-Vehari, Punjab, Pakistan | [Live Portfolio](https://github.com/mddilawar/mddilawar.github.io)
+Vehari, Punjab, Pakistan | [Live Portfolio](https://mddilawar.github.io/)
 
 ## About Me
 Detail-oriented professional with **7+ years** of experience in data entry, Excel automation, data management, and **PHP & Custom Website Development**. **BS in Computer Science** from **University of Education, Lahore** (2019-2023). Fluent in English, native in Urdu & Punjabi.
